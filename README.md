@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Vikas-singh2000
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning DevOPS
-- 💞️ I’m looking to collaborate on diffrent Projects
+- 💞️ I’m looking to collaborate on different Projects
 - 📫 How to reach me 
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
